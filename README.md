@@ -5,7 +5,7 @@ Support-Website für die NautiLearn App, die offizielle Lern-App des CCS für de
 ## Website
 
 Die Support-Website ist unter folgender URL erreichbar:
-[[[https://nautilearn.github.io/nautilearn-support](https://pfederi.github.io/NautiLearn-Support/)](https://pfederi.github.io/NautiLearn-Support/)
+[https://nautilearn.github.io/nautilearn-support](https://pfederi.github.io/NautiLearn-Support/)
 
 ## Entwicklung
 
@@ -21,4 +21,4 @@ Die Website verwendet GitHub Pages und ist in reinem HTML/CSS geschrieben für m
 ## Kontakt
 
 Bei Fragen oder Problemen:
-- Email: patrick
+- Email: patrick@federi.com
